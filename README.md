@@ -2,6 +2,9 @@
 
 A native macOS text editor prototype built with SwiftUI and AppKit.
 
+![light mode](Screenshots/light.png)
+![dark mode](Screenshots/dark.png)
+
 ## Current Milestone
 
 This first slice focuses on the editor shell:
